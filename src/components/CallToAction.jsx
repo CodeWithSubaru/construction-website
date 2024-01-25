@@ -12,7 +12,7 @@ const CallToAction = () => {
         />
       </div>
       <div className="bg-indigo-100 text-indigo-500">
-        <div className="max-w-3xl mx-auto p-8">
+        <div className="max-w-3xl mx-auto p-8 flex flex-col justify-center h-full">
           <h4 className="mb-3 text-2xl text-indigo-600 font-bold">
             Find out what it costs
           </h4>
@@ -25,7 +25,7 @@ const CallToAction = () => {
             quaerat natus mollitia voluptatum eum doloribus quia cumque.
           </p>
 
-          <Button className="">Get Estimation</Button>
+          <Button className="self-start">Get Estimation</Button>
         </div>
       </div>
     </div>
