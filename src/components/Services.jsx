@@ -50,7 +50,7 @@ const Services = () => {
             molestiae debitis illo!
           </p>
         </div>
-        <div className="row-start-3 md:row-start-auto">
+        <div className="row-start-3 md:row-start-auto h-[240px] sm:h-auto xl:h-96">
           <Image
             src="/interior-stairs.webp"
             alt="interior stairs"

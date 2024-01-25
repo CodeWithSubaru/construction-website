@@ -10,7 +10,7 @@ const Works = () => {
           <Image
             src="/gallery-1.webp"
             alt="our works 1"
-            className="h-full w-full aspect-square rounded"
+            className="h-full w-full aspect-square rounded object-cover"
           />
         </div>
 
@@ -26,7 +26,7 @@ const Works = () => {
           <Image
             src="/gallery-3.webp"
             alt="our works 3"
-            className="h-full w-full aspect-square rounded"
+            className="h-full w-full aspect-square rounded object-cover"
           />
         </div>
 
@@ -42,7 +42,7 @@ const Works = () => {
           <Image
             src="/gallery-5.webp"
             alt="our works 2"
-            className="h-full w-full aspect-square rounded"
+            className="h-full w-full aspect-square rounded object-cover"
           />
         </div>
         <div className="col-span-1 md:col-span-2">
